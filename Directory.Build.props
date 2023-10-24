@@ -1,8 +1,8 @@
 <Project>
     <PropertyGroup>
         <TargetFrameworkVersion>net6.0</TargetFrameworkVersion>
-        <WebAssemblyVersion>6.0.2</WebAssemblyVersion>
-        <WebAssemblyDevServerVersion>6.0.2</WebAssemblyDevServerVersion>
-        <SystemNetJSONVersion>6.0.0</SystemNetJSONVersion>
+        <WebAssemblyVersion>6.0.x</WebAssemblyVersion>
+        <WebAssemblyDevServerVersion>6.0.x</WebAssemblyDevServerVersion>
+        <SystemNetJSONVersion>6.0.x</SystemNetJSONVersion>
     </PropertyGroup>
 </Project>
